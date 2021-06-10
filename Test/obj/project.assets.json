@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net5.0": {
       "coverlet.collector/1.2.0": {
         "type": "package",
         "build": {
@@ -1637,7 +1637,7 @@
       },
       "Code/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
           "bin/placeholder/Code.dll": {}
         },
@@ -5655,7 +5655,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net5.0": [
       "Code >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
@@ -5690,7 +5690,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -5699,8 +5699,8 @@
         "https://fuji.sincoerp.com/SincoERP/_packaging/GTHFenix/nuget/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {
             "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Code\\Code.csproj": {
               "projectPath": "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Code\\Code.csproj"
@@ -5715,8 +5715,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
