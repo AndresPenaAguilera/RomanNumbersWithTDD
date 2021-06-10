@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Test\\Test.csproj": {}
+    "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Code\\Code.csproj": {
+    "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Code\\Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Code\\Code.csproj",
+        "projectUniqueName": "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Code\\Code.csproj",
         "projectName": "Code",
-        "projectPath": "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Code\\Code.csproj",
+        "projectPath": "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Code\\Code.csproj",
         "packagesPath": "C:\\Users\\andres.pena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Code\\obj\\",
+        "outputPath": "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Test\\Test.csproj": {
+    "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\andres.pena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Test\\obj\\",
+        "outputPath": "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -100,8 +100,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Code\\Code.csproj": {
-                "projectPath": "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Code\\Code.csproj"
+              "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Code\\Code.csproj": {
+                "projectPath": "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Code\\Code.csproj"
               }
             }
           }

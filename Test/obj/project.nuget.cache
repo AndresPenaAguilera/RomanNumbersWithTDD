@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VUJ5DvxI11tvAhS9pEGUfJ0ZbS03QwLq8B72G+D6igW9bWq6jNNAdcdZ0DooHT978jo4mktr+N4uUBu1D2EpCw==",
+  "dgSpecHash": "zfJ8GXD1QkgrzyyXBOu3jvtMAJ36V2giKLIYNDJVsbiN+r1htffPp37z2aBX1SGwYeQRo/i1OtiqT2XPDnx+LA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andres.pena\\Source\\Repos\\RomanNumbersWithTDD\\TDDSoftwareRobusto\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\andres.pena\\source\\repos\\RomanNumbersWithTDD\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andres.pena\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\andres.pena\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
