@@ -10,3 +10,15 @@ C:\Users\andres.pena\source\repos\RomanNumbersWithTDD\Code\obj\Debug\net5.0\Code
 C:\Users\andres.pena\source\repos\RomanNumbersWithTDD\Code\obj\Debug\net5.0\Code.dll
 C:\Users\andres.pena\source\repos\RomanNumbersWithTDD\Code\obj\Debug\net5.0\ref\Code.dll
 C:\Users\andres.pena\source\repos\RomanNumbersWithTDD\Code\obj\Debug\net5.0\Code.pdb
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\bin\Debug\net5.0\Code.deps.json
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\bin\Debug\net5.0\Code.dll
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\bin\Debug\net5.0\Code.pdb
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\obj\Debug\net5.0\Code.csproj.AssemblyReference.cache
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\obj\Debug\net5.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\obj\Debug\net5.0\Code.AssemblyInfoInputs.cache
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\obj\Debug\net5.0\Code.AssemblyInfo.cs
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\obj\Debug\net5.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\obj\Debug\net5.0\Code.dll
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\obj\Debug\net5.0\refint\Code.dll
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\obj\Debug\net5.0\Code.pdb
+C:\Users\Andres.pena\Source\Repos\AndresPenaAguilera\RomanNumbersWithTDD\Code\obj\Debug\net5.0\ref\Code.dll
